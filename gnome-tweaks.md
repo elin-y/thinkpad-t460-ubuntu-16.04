@@ -1,7 +1,7 @@
 # Gnome tweaks
 ## Extensions
 - Alternatetab
-- OpenWeather
+- [OpenWeather](https://extensions.gnome.org/extension/750/openweather/)
 
 ## Top bar
 - **Clock:** Check show dates, show secpnds
