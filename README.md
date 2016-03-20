@@ -15,3 +15,4 @@ There are also many points, so even if you are not a web developer, you may find
 ## [Gnome tweaks](gnome-tweaks.md)
 ## [SSD Optimizations](ssd.md)
 ## [Applications](applications.md)
+## [LAMP Stack](lamp.md)
