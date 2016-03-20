@@ -2,7 +2,7 @@
 > sudo apt-get install chromium-browser
 
 ### Settings:
-> [chrome://settings](chrome://settings)
+> [chrome://settings](chrome://settings/)
 
 - Show advanced settings...
 - Web content
