@@ -9,9 +9,6 @@ Opend dconf editor and  uncheck 'active' checkbox under:
 Create the following config file for synaptics touchpad:
 > [/etc/X11/xorg.conf.d/50-synaptics.conf](etc/X11/xorg.conf.d/50-synaptics.conf)
 
-dconf editor
-> org/gnome/settings-daemon/plugins/
-
 You need to reboot or enter the following command to get this setting active:
 > synclient VertScrollDelta=-111
 >
