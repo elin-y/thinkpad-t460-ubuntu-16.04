@@ -1,6 +1,13 @@
 ## Chromium
 > sudo apt-get install chromium-browser
 
+### Settings:
+> [chrome://settings](chrome://settings)
+
+- Show advanced settings...
+- Web content
+- Page zoom: 110%
+
 ### Profile-sync-daemon
 [Profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) is a pseudo-daemon manages browser's profile in
 tmpfs and periodically syncs it back to the physical disc.
@@ -21,12 +28,6 @@ tmpfs and periodically syncs it back to the physical disc.
 
 - Start psd:
 > systemctl --user start psd
-
-#### Settings:
-> chrome://settings
-- Show advanced settings...
-- Web content
-- Page zoom: 110%
 
 ## Terminator
 Better terminal application.
