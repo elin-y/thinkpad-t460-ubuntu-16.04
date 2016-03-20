@@ -10,8 +10,12 @@ tmpfs and periodically syncs it back to the physical disc.
 >
 > sudo apt-get install profile-sync-daemon
 
-Stop psd on both old and current computer. Copy chromium profile folder '.config/chromium' from old computer and Initiate psd
+- Stop psd on both old and current computer.
+- Copy chromium profile folder '.config/chromium' from old computer
+- Initiate psd
+
 > psd
+
 #### configure psd
 > ~/.config/psd/psd.conf
 >
