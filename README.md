@@ -1,8 +1,7 @@
 # Ubuntu 16.04 Setup on ThinkPad T460
-This is my post-install configuration on my brand new ThinkPad T460 for a perfect web development workstation.
-There are also many points, so even if you are not a web developer, you may find many points useful for you.
+This is my post-install configuration on my ThinkPad T460 to setup a web development workstation.
 
-## First things first, do updates.
+## First things first, do the updates.
 > sudo apt-get update
 >
 > sudo apt-get upgrade
