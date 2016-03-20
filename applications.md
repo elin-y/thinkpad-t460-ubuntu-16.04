@@ -20,12 +20,15 @@ tmpfs and periodically syncs it back to the physical disc.
 - Stop psd on old computer if it is installed and running.
 - Copy chromium profile folder '.config/chromium' from old computer.
 - Initiate psd:
+
 > psd
 
 - Configure psd:
+
 > [~/.config/psd/psd.conf](home/user/.config/psd/psd.conf)
 
 - Start psd:
+
 > systemctl --user start psd
 
 ## Terminator
@@ -70,15 +73,8 @@ Sync settings and packages from old computer
 
 ## TLP
 > sudo apt-get install tlp tlp-rdw tp-smapi-dkms acpi-call-dkms
->
-> sudoedit /etc/default/tlp
-```
-CPU_SCALING_GOVERNOR_ON_AC=performance
-CPU_SCALING_GOVERNOR_ON_BAT=ondemand
-CPU_BOOST_ON_AC=1
-DISK_IOSCHED="deadline cfq"
-PCIE_ASPM_ON_BAT=default
-WIFI_PWR_ON_BAT=1
-RESTORE_DEVICE_STATE_ON_STARTUP=1
-```
+
+Configuration:
+> [/etc/default/tlp](etc/default/tlp)
+
 > sudo tlp start
