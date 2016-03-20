@@ -14,4 +14,5 @@ dconf editor
 
 You need to reboot or enter the following command to get this setting active:
 > synclient VertScrollDelta=-111
+>
 > synclient HorizTwoFingerScroll=0
