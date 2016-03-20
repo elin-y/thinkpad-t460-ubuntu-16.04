@@ -1,0 +1,1 @@
+UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx /               ext4    noatime,nodiratime,errors=remount-ro 0       1
