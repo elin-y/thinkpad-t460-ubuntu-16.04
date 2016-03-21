@@ -1,4 +1,4 @@
-# Ubuntu 16.04 Setup on ThinkPad T460
+# My Ubuntu GNOME 16.04 Setup on ThinkPad T460
 This is my post-install configuration on my ThinkPad T460 to setup a web development workstation.
 
 ## First things first, do the updates.
