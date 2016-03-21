@@ -12,6 +12,8 @@
 > [/etc/php5/apache2/php.ini](etc/php5/apache2/php.ini)
 >
 > [/etc/php5/cli/php.ini](etc/php5/cli/php.ini)
+>
+> sudo service apache2 restart
 
 ## Adminer
 > sudo apt-get install adminer
