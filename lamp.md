@@ -15,7 +15,7 @@
 >
 > [/etc/php5/cli/php.ini](etc/php5/cli/php.ini)
 >
-> sudo service apache2 restart
+> sudo systemctl restart apache2
 
 ## Adminer
 > sudo apt-get install adminer
@@ -24,7 +24,7 @@
 >
 > sudo a2enconf adminer
 >
-> sudo service apache2 reload
+> sudo systemctl reload apache2
 
 ## Composer
 > php -r "readfile('https://getcomposer.org/installer');" > composer-setup.php
