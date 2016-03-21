@@ -8,6 +8,10 @@
 
 ## PHP5
 > sudo apt-get install php5 php5-mysql
+>
+> [/etc/php5/apache2/php.ini](etc/php5/apache2/php.ini)
+>
+> [/etc/php5/cli/php.ini](etc/php5/cli/php.ini)
 
 ## Adminer
 > sudo apt-get install adminer
