@@ -5,6 +5,8 @@
 
 ## Apache
 > sudo apt-get install apache2
+>
+> sudo a2enmod rewrite
 
 ## PHP5
 > sudo apt-get install php5 php5-mysql
