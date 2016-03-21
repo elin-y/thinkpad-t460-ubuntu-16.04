@@ -7,7 +7,16 @@
 > sudo apt-get install apache2
 
 ## PHP5
-> sudo apt-get install php5
+> sudo apt-get install php5 php5-mysql
+
+## Adminer
+> sudo apt-get install adminer
+>
+> sudo ln -s /etc/adminer/apache.conf /etc/apache2/conf-available/adminer
+>
+> sudo a2enconf adminer
+>
+> sudo service apache2 reload
 
 ## Composer
 > php -r "readfile('https://getcomposer.org/installer');" > composer-setup.php
