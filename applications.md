@@ -31,6 +31,9 @@ tmpfs and periodically syncs it back to the physical disc.
 
 > systemctl --user start psd
 
+## Microsoft Fonts
+> sudo apt-get install ttf-mscorefonts-installer
+
 ## Terminator
 Better terminal application.
 > sudo apt-get install terminator
