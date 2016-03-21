@@ -58,3 +58,6 @@ Configuration:
 > [/etc/default/tlp](etc/default/tlp)
 
 > sudo systemctl start tlp
+
+## Telegram
+> https://desktop.telegram.org/
