@@ -9,7 +9,7 @@
 > sudo a2enmod rewrite
 
 ## PHP5
-> sudo apt-get install php5 php5-mysql php5-imagick php5-gd
+> sudo apt-get install php5 php5-mysql php5-imagick php5-gd php5-curl php5-imap php5-mcrypt php5-xhprof
 >
 > [/etc/php5/apache2/php.ini](etc/php5/apache2/php.ini)
 >
