@@ -28,7 +28,7 @@ Add your public key into your servers' and old computer's known_hosts files.
 [drush.md](drush.md)
 
 ## Virtualbox
-> sudo apt-get install virtualbox virtualbox-guest-additions-iso
+> sudo apt-get install virtualbox virtualbox-ext-pack virtualbox-guest-additions-iso
 
 ## wkhtmltopdf
 > sudo apt-get install wkhtmltopdf
