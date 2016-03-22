@@ -1,0 +1,2 @@
+- XDebug
+- KeePassX
