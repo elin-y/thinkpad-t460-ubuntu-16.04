@@ -10,11 +10,19 @@ This is my post-install configuration on my ThinkPad T460 to setup a web develop
 >
 > sudo reboot now
 
-## [Touchpad tweaks](touchpad.md)
-## [Gnome tweaks](gnome-tweaks.md)
-## [SSD Optimizations](ssd.md)
-## [Applications](applications.md)
-## [Productivity Tools](productivity-tools.md)
-## [Developer Tools](developer-tools.md)
-## [LAMP Stack](lamp.md)
-## [Drush](drush.md)
+## Touchpad tweaks
+[touchpad.md](touchpad.md)
+## Gnome tweaks
+[gnome-tweaks.md](gnome-tweaks.md)
+## SSD Optimizations
+[ssd.md](ssd.md)
+## Applications
+[applications.md](applications.md)
+## Productivity Tools
+[productivity-tools.md](productivity-tools.md)
+## Developer Tools
+[developer-tools.md](developer-tools.md)
+## LAMP Stack
+[lamp.md](lamp.md)
+## Problems
+[problems.md](problems.md)
