@@ -7,6 +7,13 @@
 - Web content
 - Page zoom: 110%
 
+### Extensions
+- [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)
+- [Better History](https://chrome.google.com/webstore/detail/better-history/obciceimmggglbmelaidpjlmodcebijb)
+- [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj)
+- [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp)
+- [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg)
+
 ### Profile-sync-daemon
 [Profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) is a pseudo-daemon manages browser's profile in
 tmpfs and periodically syncs it back to the physical disc.
