@@ -17,6 +17,36 @@
 >
 > sudo systemctl restart apache2
 
+### XDebug
+- [Download](https://xdebug.org/download.php) XDebug source, since php5-xdebug won't install (at the time of writing).
+- Install dependencies:
+
+> sudo apt-get install phpize
+
+Fix a bug in the packages:
+> cd /usr/lib/php5/build
+>
+> sudo rm ltmain.sh
+>
+> sudo ln -s ../../../share/libtool/config/ltmain.sh .
+
+- Follow the instructions for [installation from source](https://xdebug.org/docs/install#source):
+> cd /path/to/xdebug
+>
+> phpize5
+>
+> ./configure --enable-xdebug
+>
+> make
+>
+> sudo make install
+>
+
+- Configure XDdebug:
+> [/etc/php5/mods-available/xdebug.ini](etc/php5/mods-available/xdebug.ini)
+
+> sudo systemctl restart apache2
+
 ## Adminer
 > sudo apt-get install adminer
 >
