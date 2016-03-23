@@ -21,7 +21,9 @@
 - [Download](https://xdebug.org/download.php) XDebug source, since php5-xdebug won't install (at the time of writing).
 - Install dependencies:
 
-> sudo apt-get install phpize
+> sudo apt-get install php5-dev
+>
+> sudo update-alternatives --set php /usr/bin/php5
 
 Fix a bug in the packages:
 > cd /usr/lib/php5/build
