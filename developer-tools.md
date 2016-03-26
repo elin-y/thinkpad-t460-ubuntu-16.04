@@ -34,4 +34,5 @@ Add your public key into your servers' and old computer's known_hosts files.
 > sudo apt-get install virtualbox virtualbox-ext-pack virtualbox-guest-additions-iso
 
 ## wkhtmltopdf
-> sudo apt-get install wkhtmltopdf
+Download a precompiled binary or build it from source:
+> http://wkhtmltopdf.org/
