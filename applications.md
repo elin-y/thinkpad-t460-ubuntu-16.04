@@ -8,6 +8,12 @@
 - Page zoom: 110%
 
 ### Flash player
+> sudo apt-get install pepperflashplugin-nonfree
+>
+> sudo update-pepperflashplugin-nonfree --install
+
+Due to a [bug](https://bugs.launchpad.net/ubuntu/+source/pepperflashplugin-nonfree/+bug/1527426) the installer script
+can't finish the installation properly.
 
 ### Extensions
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)
