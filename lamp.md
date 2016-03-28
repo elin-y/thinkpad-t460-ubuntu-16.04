@@ -50,8 +50,10 @@ Fix a bug in the packages:
 > sudo systemctl restart apache2
 
 ## Postfix
+> sudo apt-get install postfix
 
-@todo
+- Select **Local only** for general mail configuration
+- Leave system mail name as the name of your computer
 
 ## Adminer
 > sudo apt-get install adminer
