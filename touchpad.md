@@ -1,8 +1,8 @@
 # Touchpad tweaks
-I find it hard to use touchpad in conventional way. So one of the first things I setup is to inverse the scrolling
-direction, which is called "natural scrolling". I also disable two finger horizontal scrolling, since it annoys me.
+I find it hard to use the touchpad in conventional way. So one of the first things I setup is to inverse the scrolling
+direction, which is also called "natural scrolling". I also disable two finger horizontal scrolling, since it annoys me.
 
-Opend dconf editor and  uncheck 'active' checkbox under:
+Open dconf editor and  uncheck 'active' checkbox under:
 
 > org/gnome/settings-daemon/plugins
 

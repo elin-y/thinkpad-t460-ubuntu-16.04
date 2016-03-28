@@ -7,6 +7,8 @@
 - Web content
 - Page zoom: 110%
 
+### Flash player
+
 ### Extensions
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)
 - [Better History](https://chrome.google.com/webstore/detail/better-history/obciceimmggglbmelaidpjlmodcebijb)
