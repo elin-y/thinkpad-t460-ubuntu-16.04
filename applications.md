@@ -1,3 +1,6 @@
+## Ubuntu Restricted Extras
+> sudo apt-get install ubuntu-restricted-extras
+
 ## Chromium
 > sudo apt-get install chromium-browser
 
