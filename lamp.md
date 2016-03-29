@@ -54,6 +54,10 @@ Fix a bug in the packages:
 
 - Select **Local only** for general mail configuration
 - Leave system mail name as the name of your computer
+- Leave other configuration options to their defaults
+
+### Configure Evolution to receive local mails
+@todo
 
 ## Adminer
 > sudo apt-get install adminer
