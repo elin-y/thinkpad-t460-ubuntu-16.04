@@ -11,3 +11,8 @@
 
 ## Windows
 - **Titlebar Buttons:** Minimize
+
+## Settings
+
+### Search
+- Remove 'Software' from shell search
