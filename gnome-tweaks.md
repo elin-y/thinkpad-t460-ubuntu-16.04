@@ -15,4 +15,5 @@
 ## Settings
 
 ### Search
-- Remove 'Software' from shell search
+
+- Open `Settings > Search` and remove 'Software' from shell search
