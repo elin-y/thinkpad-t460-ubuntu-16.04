@@ -24,6 +24,9 @@ Don't use your old ssh key on your new machine, generate a new one.
 Add your public key into your servers' and old computer's known_hosts files.
 > ssh-copy-id -i user@hostname
 
+## Filezilla
+> sudo apt-get install filezilla
+
 ## Curl
 > sudo apt-get install curl
 
