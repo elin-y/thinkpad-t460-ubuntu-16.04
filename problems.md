@@ -5,3 +5,8 @@
 - Fingerprint reader no working solution
 - Cracking sound on start
 - wifi sometimes won't wake up from sleep
+- Some Fn keys:
+    - F1-F6: Working as expected
+    - F7: Manage external displays **[not tested]**
+    - F8: Toggle wireless connections **[not working]**
+    - F9-F12: Windows specific functions **[not working]**
