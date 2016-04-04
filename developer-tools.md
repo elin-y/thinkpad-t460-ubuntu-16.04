@@ -27,6 +27,9 @@ Add your public key into your servers' and old computer's known_hosts files.
 ## Filezilla
 > sudo apt-get install filezilla
 
+## Remmina (Remote desktop)
+> sudo apt-get install remmina
+
 ## Curl
 > sudo apt-get install curl
 
