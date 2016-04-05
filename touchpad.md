@@ -13,3 +13,11 @@ You need to reboot or enter the following command to get this setting active:
 > synclient VertScrollDelta=-111
 >
 > synclient HorizTwoFingerScroll=0
+>
+> synclient VertEdgeScroll=0
+>
+> synclient PalmDetect=1
+>
+> synclient FingerLow=10
+>
+> synclient CoastingSpeed=10
