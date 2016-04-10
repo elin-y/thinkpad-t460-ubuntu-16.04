@@ -22,6 +22,8 @@ You need to reboot or enter the following command to get this setting active:
 >
 > synclient PalmMinWidth=5
 >
+> synclient PalmMinWidth=80
+>
 > synclient FingerLow=10
 >
 > synclient CoastingSpeed=10
