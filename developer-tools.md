@@ -33,6 +33,9 @@ Add your public key into your servers' and old computer's known_hosts files.
 ## Curl
 > sudo apt-get install curl
 
+## Composer
+> https://getcomposer.org/doc/00-intro.md#globally
+
 ## Drush
 [drush.md](drush.md)
 
