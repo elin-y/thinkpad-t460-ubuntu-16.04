@@ -1,5 +1,4 @@
 # Problems
-- closing lid on battery freezes the system
 - plugging second monitor on HDMI freezes the system
 - screen flickering on battery
 - Fingerprint reader no working solution
