@@ -14,7 +14,7 @@ Sync settings and packages from old computer
 > sudo apt-get install oracle-java8-installer
 
 ## Git
-> sudo apt-get install git
+> sudo apt-get install git git-flow
 
 ### Generate SSH key
 Don't use your old ssh key on your new machine, generate a new one.
