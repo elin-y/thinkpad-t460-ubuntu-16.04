@@ -1,5 +1,4 @@
 # Problems
-- plugging second monitor on HDMI freezes the system
 - screen flickering on battery
 - Fingerprint reader no working solution
 - Cracking sound on start
