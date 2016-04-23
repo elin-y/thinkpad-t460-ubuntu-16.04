@@ -1,8 +1,12 @@
 # Problems
+- ~~closing lid on battery freezes the system~~
+- ~~plugging second monitor on HDMI freezes the system~~
 - screen flickering on battery
+- ~~trackpoint buttons release immediately~~
 - Fingerprint reader no working solution
 - Cracking sound on start
 - wifi sometimes won't wake up from sleep
+- ~~weak digest warning on some PPAs~~
 - Some Fn keys:
     - F1-F6: Working as expected
     - F7: Manage external displays **[not tested]**
