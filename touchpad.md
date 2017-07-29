@@ -11,19 +11,15 @@ Open dconf editor and  uncheck 'active' checkbox under:
 Create the following config file for synaptics touchpad:
 > [/etc/X11/xorg.conf.d/50-synaptics.conf](etc/X11/xorg.conf.d/50-synaptics.conf)
 
-You need to reboot or enter the following command to get this setting active:
-> synclient VertScrollDelta=-111
->
-> synclient HorizTwoFingerScroll=0
->
-> synclient VertEdgeScroll=0
->
-> synclient PalmDetect=1
->
-> synclient PalmMinWidth=5
->
-> synclient PalmMinWidth=80
->
-> synclient FingerLow=10
->
-> synclient CoastingSpeed=10
+You need to reboot or enter the following commands to get this setting active:
+
+```
+synclient VertScrollDelta=-111
+synclient HorizTwoFingerScroll=0
+synclient VertEdgeScroll=0
+synclient PalmDetect=1
+synclient PalmMinWidth=5
+synclient PalmMinWidth=80
+synclient FingerLow=10
+synclient CoastingSpeed=10
+```
